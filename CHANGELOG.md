@@ -1,3 +1,6 @@
 Fichero de log:
 
+
+
 + Añadidos nuevos ficheros
++ Añadida nueva superfuncionalidad
